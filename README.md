@@ -109,8 +109,9 @@ This project is currently under development. Contributions, ideas, and suggestio
 ## 📬 Contact
 
 **Anand Vaidya**
-AIML Engineer | Data analyst | Machine learning enthusiast| 
-📧 Connect with me for collaboration or suggestions.
+
+📧 Connect with me at [anandvaidya45@gmail.com](mailto:anandvaidya45@gmail.com) for collaboration or suggestions.
+
 
 ---
 
